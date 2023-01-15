@@ -9,3 +9,6 @@
 - KNN
 - LGBM
 - SVC
+
+## Submissions List
+![list](https://github.com/mashkarharis/ML_KAGGLE_AMEX/blob/main/submissions.PNG)
